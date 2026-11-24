@@ -1,6 +1,4 @@
-Men tèks README senp lan pou w ka kopye epi kole dirèkteman (san okenn fòma Markdown oswa siy espesyal):
-Gestion d'une Cafétéria Universitaire
-Présentation du projet
+
 Cette application en Python permet de gérer le stock d'ingrédients, les produits et leurs recettes, les clients avec remises pour les étudiants et le personnel, le suivi des commandes, l'historique des actions et la sauvegarde des données dans un fichier JSON. Elle est prévue pour fonctionner sur Google Colab et en local sur macOS.
 Classes principales
  * Client : classe de base avec identifiant, nom et calcul du montant total.
@@ -18,3 +16,6 @@ Fichiers du projet
  * demo_data.json : jeu de données d'exemple.
  * README.txt : documentation du projet en texte brut.
  * rapport_projet.pdf : rapport technique du projet.
+Utilisation
+ * Sur Mac (Terminal) : lancer python3 cafeteria.py dans le dossier du projet.
+ * Sur Google Colab : exécuter le code de cafeteria.py et utiliser le menu interactif.
